@@ -24,4 +24,4 @@ Please report any issues/bugs of the code in the discussion forum of the reposit
 
 
 # Cite
-To cite, please refer to [Link](https://doi.org/10.1039/D2AN00456A)
+To cite, please refer to [Analyst, 2022,147, 1881-1891](https://doi.org/10.1039/D2AN00456A)
